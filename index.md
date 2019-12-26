@@ -1,9 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE NETSCAPE-Bookmark-file-1>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <TITLE>Bookmarks</TITLE>
+<H1>Bookmarks</H1>
 <DL><p>
-  <DT>
-  <DL>
-    <DT>
-    <DL>
+  <DT><H3 ADD_DATE="1573635583" LAST_MODIFIED="1573635583">我的收藏</H3>
+  <DL><p>
+    <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">Bookmarks Bar</H3>
+    <DL><p>
+      <DT><A HREF="https://github.com/explore" ADD_DATE="1568164525">Explore</A>
+      <DT><A HREF="https://localhost:8443/slim/" ADD_DATE="1568164525">slim@localhost</A>
+      <DT><A HREF="https://localhost:8443/slim/dcim/report/home.htm" ADD_DATE="1568164525">DCiM Devices Trending</A>
+      <DT><A HREF="https://localhost:8443/dcim" ADD_DATE="1568164525">dcim@localhost</A>
+      <DT><A HREF="http://withpinbox.com/" ADD_DATE="1568164525">Pinbox - 随时随地收藏互联网</A>
       <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">Tools</H3>
       <DL><p>
         <DT><A HREF="http://rpm.pbone.net/" ADD_DATE="1568164525">RPM Search</A>
