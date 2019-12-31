@@ -40,7 +40,7 @@
           <DT><A HREF="http://www.labcenter.com/index.cfm" ADD_DATE="1568164525">Labcenter Electronics - Professional PCB Design and Simulation Software</A>
           <DT><A HREF="http://www.xmlbar.com/" ADD_DATE="1568164525">稞麦网</A>
           <DT><A HREF="http://www.formatoz.com/" ADD_DATE="1568164525">Format Factory - Free media file format converter</A>
-        </DL><p>
+        <p>
         <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">mac</H3>
         <DL><p>
           <DT><A HREF="http://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools" ADD_DATE="1568164525">Visual Merge and Diff Tools: P4Merge | Perforce</A>
@@ -58,12 +58,12 @@
           <DT><A HREF="http://brew.sh/index.html" ADD_DATE="1568164525">Homebrew — The missing package manager for macOS</A>
           <DT><A HREF="http://www.sql-workbench.net/" ADD_DATE="1568164525">SQL Workbench/J - Home</A>
           <DT><A HREF="https://github.com/qishibo/AnotherRedisDesktopManager" ADD_DATE="1568164525">qishibo/AnotherRedisDesktopManager: 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.</A>
-        </DL><p>
+        <p>
         <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">android</H3>
         <DL><p>
           <DT><A HREF="http://www.genymotion.net/" ADD_DATE="1568164525">Genymotion中文网 - 快速和容易的Andr​​oid仿真</A>
-        </DL><p>
-      </DL><p>
+        <p>
+      <p>
       <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">Cisco Resource</H3>
       <DL><p>
         <DT><A HREF="https://cisco.app.box.com/files/0/f/2179775275/CNCMSE" ADD_DATE="1568164525">Cisco Box</A>
@@ -85,7 +85,7 @@
           <DT><A HREF="http://10.254.22.223:8021/index.jsp" ADD_DATE="1568164525">ACS UCP - China VPN PWD Reset</A>
           <DT><A HREF="https://wmp.webex.com.cn/changePassword.php" ADD_DATE="1568164525">Reset Password - Vintela - China</A>
           <DT><A HREF="http://iampgjuan0101/" ADD_DATE="1568164525">AppleID</A>
-        </DL><p>
+        <p>
         <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">Cisco Predefined</H3>
         <DL><p>
           <DT><A HREF="http://wwwin-tools.cisco.com/dir" ADD_DATE="1568164525">People (Directory)</A>
@@ -115,13 +115,13 @@
           <DT><A HREF="http://wwwin-tools.cisco.com/itsm/mailer/welcome.do" ADD_DATE="1568164525">Mailer</A>
           <DT><A HREF="https://stock.cisco.com/EEC/#/home" ADD_DATE="1568164525">EEC</A>
           <DT><A HREF="https://www.schwab.com/" ADD_DATE="1568164525">Charles Schwab</A>
-        </DL><p>
+        <p>
         <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">Remedy</H3>
         <DL><p>
           <DT><A HREF="http://csgitsm.webex.com/arsys/shared/login.jsp?/arsys/" ADD_DATE="1568164525">BMC Remedy Mid Tier 8.1 - Login</A>
           <DT><A HREF="http://srv-helpdesk02.corp.webex.com/arsys/shared/login.jsp" ADD_DATE="1568164525">BMC Remedy Mid Tier 6.3 - Login</A>
           <DT><A HREF="https://csgitsm-stage.webex.com/arsys/shared/login.jsp?/arsys/" ADD_DATE="1568164525">BMC Remedy Mid Tier 8.1 - BTS</A>
-        </DL><p>
+        <p>
         <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">Webex Resource</H3>
         <DL><p>
           <DT><A HREF="http://www.bitdefender.com/" ADD_DATE="1568164525">Bitdefender, Scan Virus Online</A>
@@ -139,8 +139,8 @@
           <DT><A HREF="http://cdets-web/#quicksearch&severity=catastrophic" ADD_DATE="1568164525">CDETS</A>
           <DT><A HREF="http://qaforum.webex.com/forum/main.asp?rnd=2041175501" ADD_DATE="1568164525">Webex QAForum System</A>
           <DT><A HREF="https://webex.signin.aws.amazon.com/console" ADD_DATE="1568164525">Amazon Web Services Sign In @cmse-6691VENDORHUIJI@</A>
-        </DL><p>
-      </DL><p>
+        <p>
+      <p>
       <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">Webex Express</H3>
       <DL><p>
         <DT><A HREF="https://jira-eng-gpk2.cisco.com/jira/secure/Dashboard.jspa?selectPageId=15463#" ADD_DATE="1568164525">CPA Current Sprint Capacity</A>
@@ -153,7 +153,7 @@
         <DL><p>
           <DT><A HREF="https://cisco.webex.com/meet/chzhang" ADD_DATE="1568164525">Alps Zhang</A>
           <DT><A HREF="https://cisco.webex.com/meet/liltao" ADD_DATE="1568164525">Christina Tao</A>
-        </DL><p>
+        <p>
         <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">deprecated</H3>
         <DL><p>
           <DT><A HREF="https://wiki.cisco.com/display/CMSE/M6+Environment+New+Server%2CStorage%2CVIP%2CGSLB%2CDNS+Application" ADD_DATE="1568164525">M6 Environment New Server,Storage,VIP,GSLB,DNS Application - CMSE - IT Wiki</A>
@@ -176,16 +176,16 @@
             <DT><A HREF="https://wiki.cisco.com/display/CMSE/Phoenix+Project" ADD_DATE="1568164525">phoenix wiki</A>
             <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">APIs</H3>
             <DL><p>
-              <DT><A HREF="http://0.0.0.0:9103/api/vmw/resource/sync_vinfo_for_tableau" ADD_DATE="1568164525">sync_vinfo_for_tableau</A>
-            </DL><p>
+            <DT><A HREF="http://0.0.0.0:9103/api/vmw/resource/sync_vinfo_for_tableau" ADD_DATE="1568164525">sync_vinfo_for_tableau</A>
+            <p>
             <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">vCenter</H3>
             <DL><p>
               <DT><A HREF="https://10.224.249.11/" ADD_DATE="1568164525">Welcome to VMware vSphere - HF</A>
               <DT><A HREF="https://10.255.58.18/" ADD_DATE="1568164525">Welcome to VMware vSphere - BTS</A>
               <DT><A HREF="https://10.100.46.16/" ADD_DATE="1568164525">Welcome to VMware vSphere - Prod</A>
-            </DL><p>
-          </DL><p>
-        </DL><p>
+            <p>
+            <p>
+            <p>
         <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">cmse</H3>
         <DL><p>
           <DT><A HREF="http://rmc.webex.com/" ADD_DATE="1568164525">RPM Management Console</A>
@@ -197,13 +197,13 @@
             <DT><A HREF="https://ddi.qa.webex.com/" ADD_DATE="1568164525">infoblox GUI</A>
             <DT><A HREF="https://10.252.218.216/ui/HE5ARmGRk7BiFwIrftjoXg/HE557/rft0f#-646116444" ADD_DATE="1569307775">Infoblox BTS GUI</A>
             <DT><A HREF="https://ddi.prv.webex.com/" ADD_DATE="1569307840">Infoblox Prod GUI</A>
-          </DL><p>
+          <p>
           <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">cmc</H3>
           <DL><p>
             <DT><A HREF="https://csgcmc.qa.webex.com/" ADD_DATE="1568164525">CMC Dashboard - QA</A>
             <DT><A HREF="https://csgcmc.webex.com/" ADD_DATE="1568164525">CMC Dashboard - Prod</A>
             <DT><A HREF="http://sjcmc.eng.webex.com/" ADD_DATE="1568164525">CMC Dashboard - Eng</A>
-          </DL><p>
+          <p>
           <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">AIOPs</H3>
           <DL><p>
             <DT><A HREF="https://oneportal.webex.com/oneportal/?entry-point=clops#/dashboard/overall" ADD_DATE="1568164525">OnePortal</A>
@@ -213,8 +213,8 @@
             <DT><A HREF="https://www.datacamp.com/" ADD_DATE="1568164525">Learn R, Python   Data Science Online | DataCamp</A>
             <DT><A HREF="http://rpsj1hmn103.webex.com:19888/jobhistory" ADD_DATE="1568164525">JobHistory</A>
             <DT><A HREF="http://rpsj1hmn104.webex.com:8088/cluster" ADD_DATE="1568164525">All Applications</A>
-          </DL><p>
-        </DL><p>
+          <p>
+        <p>
         <DT><H3 ADD_DATE="1568164518" LAST_MODIFIED="1568164518">slim</H3>
         <DL><p>
           <DT><A HREF="https://localhost:8443/slim/slimAcegiHome.do" ADD_DATE="1568164525">Server Lifecycle Management, Local</A>
